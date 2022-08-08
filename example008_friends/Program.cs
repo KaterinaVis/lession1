@@ -6,7 +6,7 @@ int dogSpeed = 5;
 int friend = 2;
 int Time = 0;
 
-while(count>10)
+while(distance>10)
 {
     if(friend == 1)
     {
